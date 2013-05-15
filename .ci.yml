@@ -1,0 +1,4 @@
+language: java
+script: 
+ - blah: echo blah
+ - asdf: echo asdf
